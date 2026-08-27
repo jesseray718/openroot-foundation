@@ -1,0 +1,10 @@
+[project]
+name = "openroot-canon"
+version = "1.0.0"
+description = "Locked OpenRoot foundation — N00-N16 and callable algorithms"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "GPL-3.0-or-later"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

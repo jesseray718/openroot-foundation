@@ -1,0 +1,12 @@
+{
+  "library": "openroot-foundation",
+  "callable": "src/openroot_canon",
+  "entry": ["coord", "eta", "gamma", "synergy", "landauer", "newton", "derive", "postulate"],
+  "canon": "canon/CANON.json",
+  "for_inference": ["AGENTS.md", ".github/copilot-instructions.md"],
+  "invariants": [
+    "coord(N,T,1.0)==0.0 when T>=1",
+    "newton quotes lock text",
+    "no second CANON file"
+  ]
+}
