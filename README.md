@@ -57,3 +57,6 @@ gh repo create jesseray718/openroot-foundation --public --source=. --remote=orig
 Then every inference loads `github.com/jesseray718/openroot-foundation`. That is the interchangeable library.
 
 License: CC-BY-SA-4.0 docs, GPL-3.0 code. No patents.
+
+## Knowledge Integration
+See `docs/knowledge/`.
